@@ -1,5 +1,5 @@
 name: CommandLogger
-version: 0.1
+version: 0.4
 description: Logs all commands in minecraft console and player
 author: The_Toyz
 website: http://toyz.ninja
@@ -13,4 +13,6 @@ commands:
 permissions:
    coml.purge:
      description: Allows the user to purge the logs
+   coml.backup:
+     description: Allows a staff member to purge and back-up logs
   
