@@ -1,0 +1,12 @@
+name: CommandLogger
+version: 0.1
+description: Logs all commands in minecraft console and player
+author: The_Toyz
+website: http://toyz.ninja
+
+main: com.toyz.CommandLogger.CommandLogger
+
+commands:
+   coml:
+     description: Gets the about information of the plugin
+  
