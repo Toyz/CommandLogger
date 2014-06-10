@@ -64,6 +64,7 @@ public class PluginCommands implements CommandExecutor{
 	 			e.printStackTrace();
 	 		}
  	    }
+ 	    is_Dumping = false;
         return true;
 	}
 	
